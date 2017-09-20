@@ -3,6 +3,6 @@
 3. Iterate a DataFrame
 4. How to find unique values on a specific column in Panda Dataframe
 5. How to groupby DataFrame on a specific column. For ex : Group all the median house prices base on their State
-    > <df>.groupby(['<col-name>']).median().loc['<index>']
+    > <df>.groupby(['[col-name]']).median().loc['[index]']
 6. How to fetch a specific row from DataFrame. 
     > By using loc[index] and iloc[value] attribute
