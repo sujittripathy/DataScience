@@ -6,3 +6,5 @@
     > <df>.groupby(['[col-name]']).median().loc['[index]']
 6. How to fetch a specific row from DataFrame. 
     > By using loc[index] and iloc[value] attribute
+7. Sorting a specific column data in DataFrame.
+    > [DataFrame].sort(columns='')
